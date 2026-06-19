@@ -2,11 +2,8 @@
 
 ## Overview
 
-This repository documents my enterprise home lab, designed to develop practical skills in networking, systems administration, and infrastructure engineering.
-
-The lab is hosted on Arch Linux using QEMU/KVM and serves as a safe environment for building, testing, and troubleshooting enterprise technologies without impacting production systems.
-
-This repository will continue to evolve as I implement new technologies, configurations, and services.
+Hello, I made this repository to document my home lab that was designed to develop my pratical understanding and skills in networking and system adminstration. 
+This lab is hosted on arch linux using QEMU/KVM and it will continue to grow and evolve as i implement new configurations and services.
 
 ---
 
